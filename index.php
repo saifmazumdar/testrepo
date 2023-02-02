@@ -20,7 +20,7 @@
     .login-form-3 .btnSubmit {
     font-weight: 600;
     color: #0062cc;
-    background-color: #fff;
+    background-color: yellow;
 }
 
 .login-form-3 h3 {
